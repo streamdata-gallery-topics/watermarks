@@ -26,7 +26,7 @@ apis:
   tags: Watermarks
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/watermarks/master/_listings/youtube/watermarks-set-parameters.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/watermarks/master/_listings/youtube/watermarks-set-post.md
 x-common:
 - type: x-articles
   url: https://developers.google.com/youtube/articles/
