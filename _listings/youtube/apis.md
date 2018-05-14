@@ -27,17 +27,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/watermarks/master/_listings/youtube/watermarks-unset-post.md
-- name: Youtube Parameters Watermarks Unset
-  description: Parameters watermarks unset
+- name: Youtube Add Watermarks Unset
+  description: Deletes a channel's watermark image.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/youtube-logo.png
   humanURL: https://www.youtube.com/
   baseURL: https://www.googleapis.com//youtube/v1
   tags: Watermarks
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/watermarks/master/_listings/youtube/watermarks-unset-parameters.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/watermarks/master/_listings/youtube/watermarks-unset-post.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/watermarks/master/_listings/youtube/watermarks-unset-parameters-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/watermarks/master/_listings/youtube/watermarks-unset-post-postman.md
 x-common:
 - type: x-articles
   url: https://developers.google.com/youtube/articles/
